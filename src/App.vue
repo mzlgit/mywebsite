@@ -5,5 +5,7 @@
 </template>
 
 <style>
-
+#app {
+  font-size: inherit;
+}
 </style>
